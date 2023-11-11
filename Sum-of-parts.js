@@ -34,3 +34,5 @@ function partsSums(ls) {
   let sum = ls.reduce((p, c) => p + c, 0);
   return ls.map(v => sum = sum - v);
 }
+
+// or
