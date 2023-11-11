@@ -25,3 +25,6 @@ parts_sums(ls) -> [10037855, 9293730, 9292795, 9292388, 9291934, 9291504, 929141
 Notes:
   Take a look at performance: some lists have thousands of elements.
 */
+
+
+// Solution
